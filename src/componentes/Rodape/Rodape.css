@@ -1,0 +1,44 @@
+.rodape-end {
+    height: 130px;
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.fundo {
+    background-image: url('/public/imagens/fundo.png');
+    background-size: cover;
+}
+
+.rodape-icons {
+    margin-left: 10%;
+}
+
+.rodape-icons a {
+    padding: 0px 20px 0px 0px;
+}
+
+@media (max-width: 850px) {
+    .rodape-img {
+        display: none;
+    }
+}
+
+
+.rodape-end p {
+    margin-right: 10%;
+    font-size: 20px;
+}
+
+
+.rodape-end p a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.rodape-end p a:hover {
+    text-decoration: underline;
+}
