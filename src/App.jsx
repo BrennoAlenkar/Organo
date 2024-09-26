@@ -8,37 +8,37 @@ function App() {
 
   const times = [
     {
-      nome: 'Programação',
+      nome: 'One Piece',
       corPrimaria: '#57C278',
       corSecundaria: '#D9F7E9'
     },
     {
-      nome: 'Front-End',
+      nome: 'Naruto',
       corPrimaria: '#82CFFA',
       corSecundaria: '#E8F8FF'
     },
     {
-      nome: 'Data Science',
+      nome: 'Dragon Ball',
       corPrimaria: '#A6D157',
       corSecundaria: '#F0F8E2'
     },
     {
-      nome: 'DevOps',
+      nome: 'Bleach',
       corPrimaria: '#E06869',
       corSecundaria: '#FDE7E8'
     },
     {
-      nome: 'UX e Design',
+      nome: 'Attack on Titan',
       corPrimaria: '',
       corSecundaria: ''
     },
     {
-      nome: 'Mobile',
+      nome: 'Boku no Hero',
       corPrimaria: '#ffBa05',
       corSecundaria: '#FFF5D9'
     },
     {
-      nome: 'Inovação e Gestão',
+      nome: 'Digimon',
       corPrimaria: '#FF8A29',
       corSecundaria: '#FFEEDF'
     },
