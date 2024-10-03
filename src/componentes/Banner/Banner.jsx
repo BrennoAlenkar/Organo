@@ -3,7 +3,7 @@ import './Banner.css'
 const Banner = () => {
     return (
         <header className='banner'>
-            <img src="/imagens/banner-anime.webp" alt="Foto Banner Alura" />
+            <img src="/imagens/img-teste-um.jpeg" alt="Foto Banner Alura" />
         </header>
     )
 }
